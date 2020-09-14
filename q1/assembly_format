@@ -1,0 +1,5 @@
+to present src_code.c in assembly please compile as follow:
+
+gcc -S src_code.c -o src_code.s
+
+open terminal and run: cat src_code.s

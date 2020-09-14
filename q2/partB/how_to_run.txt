@@ -1,0 +1,4 @@
+create an exuctable for server.c.
+run the executable created.meanwhile(while the exucutabe running open another terminal and run comman pidof and executable name of the server)
+
+we then pass this pid to the runnable client program as a papameter(please make sure to enter in right order according to exersice criteria).
