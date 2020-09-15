@@ -89,7 +89,7 @@ incase of softlink ignore.
 *Note: order of printing doesn't matter*
 
 
-**General Note:The task was originally published in hebrew, but for the sake of non hebrew speakers I translated it to English(Iv'e added a file ref. in Hebrew)**
+**General Note:The task was originally published in hebrew, but for the sake of non hebrew speakers I translated it to English(I've added a file ref. in Hebrew)**
 
 
 **Good Luck and may the force be with you**
